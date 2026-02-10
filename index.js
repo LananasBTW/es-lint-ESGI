@@ -4,7 +4,7 @@ function additionner(a,b){
   return result;
 }
 
-const unusedVar = 42;
+const unusedVar = 43;
 
 function division(x, y) {
   if (y == 0) {
